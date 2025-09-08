@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-09-07 20:59:10 by Eclipse SUMO netedit Version 1.24.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <trip id="t_0" depart="0.00" from="-E19" to="E8" via="-E24 E15 E16"/>
+    <trip id="t_1" depart="0.00" from="E20" to="-E19" via="-E10 E16 E15 -E24"/>
+    <trip id="t_10" depart="0.00" from="E20" to="E8" via="E21 -E17"/>
+    <trip id="t_11" depart="0.00" from="E13" to="-E14" via="E24 -E23"/>
+    <trip id="t_12" depart="0.00" from="-E18" to="E16" via="-E23 -E15 E15"/>
+    <trip id="t_13" depart="0.00" from="E18" to="-E17"/>
+    <trip id="t_14" depart="0.00" from="E16" to="-E18"/>
+    <trip id="t_15" depart="0.00" from="E16" to="E16"/>
+    <trip id="t_16" depart="0.00" from="E16" to="E17"/>
+    <trip id="t_17" depart="0.00" from="E16" to="E16"/>
+    <trip id="t_18" depart="0.00" from="E16" to="E14"/>
+    <trip id="t_19" depart="0.00" from="-E10" to="E20"/>
+    <trip id="t_2" depart="0.00" from="E8" to="-E19" via="E16 E13"/>
+    <trip id="t_20" depart="0.00" from="E10" to="-E16" via="-E20 E19 E24 E15 E16"/>
+    <trip id="t_21" depart="0.00" from="E10" to="E10"/>
+    <trip id="t_22" depart="0.00" from="-E10" to="-E10"/>
+    <trip id="t_23" depart="0.00" from="-E16" to="-E16"/>
+    <trip id="t_24" depart="0.00" from="E17" to="E17"/>
+    <trip id="t_25" depart="0.00" from="-E17" to="-E17"/>
+    <trip id="t_26" depart="0.00" from="E8" to="E8"/>
+    <trip id="t_27" depart="0.00" from="-E8" to="-E8"/>
+    <trip id="t_28" depart="0.00" from="-E8" to="E17"/>
+    <trip id="t_29" depart="0.00" from="-E10" to="-E21" via="E16 E14 -E18"/>
+    <trip id="t_3" depart="0.00" from="-E19" to="-E24" via="E20 E21 E18 E23"/>
+    <trip id="t_30" depart="0.00" from="-E13" to="E15" via="E14 E23"/>
+    <trip id="t_31" depart="0.00" from="-E14" to="-E23" via="E15"/>
+    <trip id="t_32" depart="0.00" from="-E15" to="E14" via="-E16 E17 -E18"/>
+    <trip id="t_33" depart="0.00" from="E14" to="E15" via="E23"/>
+    <trip id="t_34" depart="0.00" from="E19" to="E19" via="-E13 -E16 -E8 E19 -E13 -E8"/>
+    <trip id="t_4" depart="0.00" from="E19" to="E15" via="-E13 -E23 -E18 E17 -E8"/>
+    <trip id="t_5" depart="0.00" from="E15" to="E16" via="E16 -E10 E21 E18 E23 E16 -E16"/>
+    <trip id="t_6" depart="0.00" from="E16" to="E16" via="E17 -E18 E14"/>
+    <trip id="t_7" depart="0.00" from="E15" to="-E23" via="-E14"/>
+    <trip id="t_8" depart="0.00" from="-E17" to="-E21" via="-E10"/>
+    <trip id="t_9" depart="0.00" from="-E20" to="E8" via="E10"/>
+</routes>
